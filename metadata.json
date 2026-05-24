@@ -1,0 +1,6 @@
+{
+  "name": "LuvSMM Pro Panel",
+  "description": "Premium SMM Panel dashboard in React with downloadable PHP source code, admin & user panels, and database setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
